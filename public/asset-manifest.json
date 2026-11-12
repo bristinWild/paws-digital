@@ -1,0 +1,1721 @@
+{
+  "schema": 1,
+  "source": "PAWS_Digital_Agent/art/source/webp",
+  "assets": [
+    {
+      "id": "Land Board/Land Board_Back",
+      "path": "Land Board/Land Board_Back.webp",
+      "sha256": "303b4ffa03cb7fa18da21aaff960335c20aeed9f329c41987ccd8345e06143ec",
+      "width": 1701,
+      "height": 2085
+    },
+    {
+      "id": "Land Board/Land Board_Front",
+      "path": "Land Board/Land Board_Front.webp",
+      "sha256": "8d51b82f479ae74d423fad7380237d5532aaee55cc7328dfac0120a2ec1a63ef",
+      "width": 1701,
+      "height": 2085
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 10_Back",
+      "path": "Land Tiles/Bihex/Bihex 10_Back.webp",
+      "sha256": "b1b8a347b430851015411bd2ec606a35d10e857aadae3c0cd52e43a2559a872b",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 10_Front",
+      "path": "Land Tiles/Bihex/Bihex 10_Front.webp",
+      "sha256": "95c4fa56f99fba7b2077d06b1a53aebf1c98371b65a4526fa5273bff011603eb",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 11_Back",
+      "path": "Land Tiles/Bihex/Bihex 11_Back.webp",
+      "sha256": "835eef2cbd71ea94c6a93c920e410c4de45c18cfee0b6ffadff02cc5b65f8e07",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 11_Front",
+      "path": "Land Tiles/Bihex/Bihex 11_Front.webp",
+      "sha256": "c20ba827ff3711c89112d54850df97c017162b79289a22520f9e8f031e386510",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 12_Back",
+      "path": "Land Tiles/Bihex/Bihex 12_Back.webp",
+      "sha256": "16743befccdd0a23242d93674107b2a236dca9ffbfdea631119a0002adfe1a4b",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 12_Front",
+      "path": "Land Tiles/Bihex/Bihex 12_Front.webp",
+      "sha256": "ca8f9863f317c19801c48906d9b74bc1f03d363b635bf0555b303766f2da613f",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 1_Back",
+      "path": "Land Tiles/Bihex/Bihex 1_Back.webp",
+      "sha256": "66661eb019f352d43aa300e2de7a34e2b324447c39b8dee5e06eaa2e50953391",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 1_Front",
+      "path": "Land Tiles/Bihex/Bihex 1_Front.webp",
+      "sha256": "03874e94dc473b8ac85f332444a31944f500e50a99a8c2ce677d94afe8c596e7",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 2_Back",
+      "path": "Land Tiles/Bihex/Bihex 2_Back.webp",
+      "sha256": "0f4337597405b26993857eb2a5d03a55625ee77482864ec3749a246bfe9e6bb8",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 2_Front",
+      "path": "Land Tiles/Bihex/Bihex 2_Front.webp",
+      "sha256": "381255774afee5505f79ddde6cb9c9a1b2a9925c93e3bf3cc3644ab38deff571",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 3_Back",
+      "path": "Land Tiles/Bihex/Bihex 3_Back.webp",
+      "sha256": "ab29589c3ac7a1dd1982644504095955bf603f4ffe8f010618fd5e66036d5cc6",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 3_Front",
+      "path": "Land Tiles/Bihex/Bihex 3_Front.webp",
+      "sha256": "3dc358cc4af89628616e8f118a766f0a57c1109362c7dcc224faa02565d81195",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 4_Back",
+      "path": "Land Tiles/Bihex/Bihex 4_Back.webp",
+      "sha256": "f60c1707b8245a22124291ef5da51493b7892a560fd4dd28074ac33a32b4414b",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 4_Front",
+      "path": "Land Tiles/Bihex/Bihex 4_Front.webp",
+      "sha256": "b395a1a9e57f969593f77844cbf10cc591094c2dbc2ec98c4f3f45077ebaf794",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 5_Back",
+      "path": "Land Tiles/Bihex/Bihex 5_Back.webp",
+      "sha256": "306b3ea499d0d6426b278f31ec00e77b72aa5ac95343115a57fc2e2179e20f4f",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 5_Front",
+      "path": "Land Tiles/Bihex/Bihex 5_Front.webp",
+      "sha256": "0ec9f2ed31fdbc02f202aa659ce967960a5416107b69ecf36777a78dd0c417d5",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 6_Back",
+      "path": "Land Tiles/Bihex/Bihex 6_Back.webp",
+      "sha256": "03d8da235dc7ae1555ed3d3b97c3c2a0c4db3cb08d578c590a3aa2fa1d91655a",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 6_Front",
+      "path": "Land Tiles/Bihex/Bihex 6_Front.webp",
+      "sha256": "175838af4bdffbcb8ca8e6d1fbba9d2e2e16495174ea75d85e5cd6e17bbd5fbc",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 7_Back",
+      "path": "Land Tiles/Bihex/Bihex 7_Back.webp",
+      "sha256": "05e5340674c9f05d85fc8dd8279897b9c5c24a96d69f88ff7b328e05034c3e81",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 7_Front",
+      "path": "Land Tiles/Bihex/Bihex 7_Front.webp",
+      "sha256": "235be419cc41590a51548d09e845f5aa28f60fd5d5cc0c5523ae72a8ff9e5896",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 8_Back",
+      "path": "Land Tiles/Bihex/Bihex 8_Back.webp",
+      "sha256": "2eeba27f01243528feace9bffed48b48cad0212648b68238f2326c815907835d",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 8_Front",
+      "path": "Land Tiles/Bihex/Bihex 8_Front.webp",
+      "sha256": "b5b4806f8064707e916037e3e80f0f938d4b0b6bea926952997ebe621e475610",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 9_Back",
+      "path": "Land Tiles/Bihex/Bihex 9_Back.webp",
+      "sha256": "31f523a10e738cdbdbf4ca1cba4b4c559e840fb8f63328c99c907d09627b6c53",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Bihex/Bihex 9_Front",
+      "path": "Land Tiles/Bihex/Bihex 9_Front.webp",
+      "sha256": "5f7194da609a96cd06e8f1f0b195b704fbde96db6fa24f11ccc578b89e1c2d40",
+      "width": 408,
+      "height": 709
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 10_Back",
+      "path": "Land Tiles/Monohex/Monohex 10_Back.webp",
+      "sha256": "d640ffc322a3f08c28d13865494e658d2bccd6aa8f4f30ff0bd5e7d9a83d72b8",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 10_Front",
+      "path": "Land Tiles/Monohex/Monohex 10_Front.webp",
+      "sha256": "1cdec368e8060ecccf8c1b4708ffefff6c7a0abc77e27b97d44c2f5e870231fe",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 11_Back",
+      "path": "Land Tiles/Monohex/Monohex 11_Back.webp",
+      "sha256": "eceb43f93f22406728dc86cfe00a45bf6271be92c4a62ed96036154953b4448f",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 11_Front",
+      "path": "Land Tiles/Monohex/Monohex 11_Front.webp",
+      "sha256": "b6ebc6f243c8e8fc5c36c69e30ddf074b6b5fd2787efc501507d9dd8dadc48c8",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 12_Back",
+      "path": "Land Tiles/Monohex/Monohex 12_Back.webp",
+      "sha256": "1b6b4630e4e8864e33365d05d7f3b02202db3004d3089cb70400a7ff421a29ee",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 12_Front",
+      "path": "Land Tiles/Monohex/Monohex 12_Front.webp",
+      "sha256": "638b79f7487c06632acc1540e2ff6d27f631bdd31cdf212e4b24f494376be791",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 13_Back",
+      "path": "Land Tiles/Monohex/Monohex 13_Back.webp",
+      "sha256": "bd16aaf918147b3a7a4b893b80fb78e5ded0098ccda941399a203132e3d4a264",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 13_Front",
+      "path": "Land Tiles/Monohex/Monohex 13_Front.webp",
+      "sha256": "56bea6eaf89b81b36b66fe509fb3bfbe33ab73fb84481545e8a5b76df4961929",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 14_Back",
+      "path": "Land Tiles/Monohex/Monohex 14_Back.webp",
+      "sha256": "45d88bc097bf962a16785d2da1e8a5e7abb1a089e39cb255d9c9a5ab00258bb9",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 14_Front",
+      "path": "Land Tiles/Monohex/Monohex 14_Front.webp",
+      "sha256": "2592213cf7ea9799577642b07b3709e6f71cc14c4e72d6bafe8a28bc555297b1",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 1_Back",
+      "path": "Land Tiles/Monohex/Monohex 1_Back.webp",
+      "sha256": "31e7e6d88ce22147f19f56287dcfc25dc0de4a59788b45189072df70a0d0504e",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 1_Front",
+      "path": "Land Tiles/Monohex/Monohex 1_Front.webp",
+      "sha256": "6ceb0b8e1b7613c92fed2910fbe4cf004a84684ed38905472321a18f066413e6",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 2_Back",
+      "path": "Land Tiles/Monohex/Monohex 2_Back.webp",
+      "sha256": "cd5ad0423b4b097c9eeed037673f539c64e920f0f43b0747944f9631215b92c3",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 2_Front",
+      "path": "Land Tiles/Monohex/Monohex 2_Front.webp",
+      "sha256": "ff11a109565faaa69eedb64214a7d495da5964f9127d5950d1e03a3d78641d9a",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 3_Back",
+      "path": "Land Tiles/Monohex/Monohex 3_Back.webp",
+      "sha256": "b687ad2659d72ae6fc24f101801f0e03cc6696992ca80086ea0adcc6b1ce7974",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 3_Front",
+      "path": "Land Tiles/Monohex/Monohex 3_Front.webp",
+      "sha256": "87e55f589b6240c331c50972b5bc92b62b4ac277a10b50419df9e1bf84247c31",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 4_Back",
+      "path": "Land Tiles/Monohex/Monohex 4_Back.webp",
+      "sha256": "939baf3c444ffc00d1ae52cb306c6ef3fc60a387451ea013639a4ab510f1bf75",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 4_Front",
+      "path": "Land Tiles/Monohex/Monohex 4_Front.webp",
+      "sha256": "19a8e49d1a6a94b657c322757c121480413bd706ef111d0e648b32671d204e64",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 5_Back",
+      "path": "Land Tiles/Monohex/Monohex 5_Back.webp",
+      "sha256": "c428f6e853376b072d2e0cff4552b1578ceaf77907b0f2dca4664a7c3e5be47a",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 5_Front",
+      "path": "Land Tiles/Monohex/Monohex 5_Front.webp",
+      "sha256": "18a4d69c74170d7f8e0e7b2b0be661d0cb85f6d64f8137cec6fb5d87968f9b85",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 6_Back",
+      "path": "Land Tiles/Monohex/Monohex 6_Back.webp",
+      "sha256": "d810d1b3e381848573a6ca6bb3e9316d0c24583b157202fb213ace4142afbbde",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 6_Front",
+      "path": "Land Tiles/Monohex/Monohex 6_Front.webp",
+      "sha256": "4f1374d28a5fcf6332dbc116a8d343ac1b27fe2b6ed99802dfd16d1292db77fb",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 7_Back",
+      "path": "Land Tiles/Monohex/Monohex 7_Back.webp",
+      "sha256": "3835539d80327a16f3d2fd752dc2b8d971bf952f59dabbbc66daff4ea84b0a3c",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 7_Front",
+      "path": "Land Tiles/Monohex/Monohex 7_Front.webp",
+      "sha256": "7fcd4d5960b592bc2bfa9d6cf95d6e053ea43d857abe8bc0980e622d7f95d444",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 8_Back",
+      "path": "Land Tiles/Monohex/Monohex 8_Back.webp",
+      "sha256": "75a742cb305ed7eb8bc08fbc382fd21abd7101845704be7e9eb79137203b73ba",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 8_Front",
+      "path": "Land Tiles/Monohex/Monohex 8_Front.webp",
+      "sha256": "bed72a514da95acf8afd778e7212d94284669caa6738a5abcafcd4df07d83624",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 9_Back",
+      "path": "Land Tiles/Monohex/Monohex 9_Back.webp",
+      "sha256": "82e062a4e6e61049621acd9724fe0c8373d669d1ce32b16c33c698e41702d066",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Monohex/Monohex 9_Front",
+      "path": "Land Tiles/Monohex/Monohex 9_Front.webp",
+      "sha256": "2b310f62dfc6e200622e456f608405bcec3a28934c6618a2a181216218b9e3ed",
+      "width": 408,
+      "height": 355
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 1_Back",
+      "path": "Land Tiles/Trihex/Trihex 1_Back.webp",
+      "sha256": "06ad2621eda6ab2f29eb526b1eecf343157f289556a63bfcef7859cae0323895",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 1_Front",
+      "path": "Land Tiles/Trihex/Trihex 1_Front.webp",
+      "sha256": "956523562a786d45b882fd125e7111200bca16b16f816f3a3f9523d17bea4375",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 2_Back",
+      "path": "Land Tiles/Trihex/Trihex 2_Back.webp",
+      "sha256": "0c7643eaad8e18b2b2408d18c88c5b04fe19d700fc9983c6bcc193a196969403",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 2_Front",
+      "path": "Land Tiles/Trihex/Trihex 2_Front.webp",
+      "sha256": "d4dd7ffebeb10df25360cccebfb56b5a48a07325f1243f2c80522435acb48aea",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 3_Back",
+      "path": "Land Tiles/Trihex/Trihex 3_Back.webp",
+      "sha256": "6a78e044670bc1912322a0310db0600dd4c739c730291795f531f877a104ef4c",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 3_Front",
+      "path": "Land Tiles/Trihex/Trihex 3_Front.webp",
+      "sha256": "96f9ebaae8f7a2a27661051b51e51f3d7accb974f8b7fe7a8a37ea78679fd973",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 4_Back",
+      "path": "Land Tiles/Trihex/Trihex 4_Back.webp",
+      "sha256": "a06e803f1608b47a480f1545d60b5e59676066cc5d177728107878a1fc6be74f",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 4_Front",
+      "path": "Land Tiles/Trihex/Trihex 4_Front.webp",
+      "sha256": "a8a3c47ae58147f13a1e879a9066cc7b9621183a8d433d9587957ae4a166f138",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 5_Back",
+      "path": "Land Tiles/Trihex/Trihex 5_Back.webp",
+      "sha256": "8b986e3d147381d62853a279625812cc208b8de3b063d78ba0dacb407a18d6e3",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 5_Front",
+      "path": "Land Tiles/Trihex/Trihex 5_Front.webp",
+      "sha256": "efcd9d1f320b6a432272f43ccad7ae276dbfd978172a5a6b4c6eb366f3a8647e",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 6_Back",
+      "path": "Land Tiles/Trihex/Trihex 6_Back.webp",
+      "sha256": "40d03cce8628236d6417b7ab2ebd0a8c85e42af030b466ce20e5731224e7c272",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 6_Front",
+      "path": "Land Tiles/Trihex/Trihex 6_Front.webp",
+      "sha256": "7c53e100554a5fce40ce14b0552b51c2835663ee6112d78cfa8e3a507195b40c",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 7_Back",
+      "path": "Land Tiles/Trihex/Trihex 7_Back.webp",
+      "sha256": "ae6621ed49553db703fb374f3d51d09acd639b265ea7cd31ed351897c7c21909",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Land Tiles/Trihex/Trihex 7_Front",
+      "path": "Land Tiles/Trihex/Trihex 7_Front.webp",
+      "sha256": "851a8e463e613a78510a45334f04eec4d90d1f009074f8ddcf62108392a09992",
+      "width": 408,
+      "height": 1063
+    },
+    {
+      "id": "Player Mat/Player Mat 1_Back",
+      "path": "Player Mat/Player Mat 1_Back.webp",
+      "sha256": "f2cab6b27588822d3f50cbeacdae0ea6a451fff8346b339aecd6b67901999347",
+      "width": 4088,
+      "height": 1725
+    },
+    {
+      "id": "Player Mat/Player Mat 1_Front",
+      "path": "Player Mat/Player Mat 1_Front.webp",
+      "sha256": "282ac0b7fa8eddbf9154579afc31913d9de598a07874e36ce4252e6df0aadaa9",
+      "width": 4088,
+      "height": 1725
+    },
+    {
+      "id": "Player Mat/Player Mat 2_Back",
+      "path": "Player Mat/Player Mat 2_Back.webp",
+      "sha256": "3c0d5180dc85ccb98f37023dbec7828e0b0fa891a2d7615ee815d12254afa575",
+      "width": 4088,
+      "height": 1725
+    },
+    {
+      "id": "Player Mat/Player Mat 2_Front",
+      "path": "Player Mat/Player Mat 2_Front.webp",
+      "sha256": "7911cb6fc8d0bf9a5ce888e4b6a9ae1e5d5149a87c73acb4176445e5a26e1e16",
+      "width": 4088,
+      "height": 1725
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 100_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 100_Front.webp",
+      "sha256": "3aa0f5c7d4c05da01cc981755ad44822fd477f9c21a0bf76637c6c1a86732f67",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 101_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 101_Front.webp",
+      "sha256": "35bb0b5ae8b00908f485011501b937aa59bb68724919143484f04e7fc4c22a09",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 10_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 10_Front.webp",
+      "sha256": "7e7df5ed916098a7a2cf8259cf1a11e51e14c892a71c12d7f5c1583a452618c1",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 11_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 11_Front.webp",
+      "sha256": "f055531eb25faecefc43e53bf7ffd2c4733f0e8470790847a27b226bf64ee10a",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 12_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 12_Front.webp",
+      "sha256": "2104e37a14fccc24aa2797aae3ce4f4f24c2ec870814e23aa9661a009374439c",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 13_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 13_Front.webp",
+      "sha256": "fb1f23883def633ca809d4f031dd275977dfebc4ca221666841b7f3e70b267e2",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 14_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 14_Front.webp",
+      "sha256": "1bf7ac5d40e8751202b77a240f5d9fc7b3cff627422f66ef37dfd9027344d3ea",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 15_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 15_Front.webp",
+      "sha256": "dea629e5d5cff0fbc383c54dadc54b497e821bf8036f3f5019453d7f27b13d9d",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 16_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 16_Front.webp",
+      "sha256": "f2b432741d8d81e614c2d8d59f4f9b829610d3e4fe5c2721b056d1764f000c93",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 17_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 17_Front.webp",
+      "sha256": "63ace66c800244a9cd037f6dc47da7b1a05f3d531d4b3bcce80ef9f9a0145c2c",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 18_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 18_Front.webp",
+      "sha256": "87f68af44ee4269c99019363492c4367a8c63d1213f8804c8d28a55da75c89f8",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 19_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 19_Front.webp",
+      "sha256": "59780098cb5fcfe7db319ab103526f70b2886c68b08b55bebb470e0778b35fb1",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 1_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 1_Front.webp",
+      "sha256": "9ee26d5cc25fbfb7ddcb4093660bf0591a81d86c8b62cf49560b0a317458249e",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 20_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 20_Front.webp",
+      "sha256": "4b6d5c0fe83440d96951e5a0c3ac3afb32716c6bb0b1f955181b23cee8129c9c",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 21_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 21_Front.webp",
+      "sha256": "d1a264d9fbea77b098f9ca6197a3d478cf9b90dce1893a7cca388739c4c1c6cc",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 22_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 22_Front.webp",
+      "sha256": "9340820049ad465ca167d7019e99412fee2aa9a2bb62ff50b44306a1dc5b5e53",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 23_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 23_Front.webp",
+      "sha256": "76b5a070ccf428fd7469cba9d0d47562e522e1c9562ed7a319a7128a58e197b5",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 24_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 24_Front.webp",
+      "sha256": "cee400ec8a91e81c50b4defb197e6f2a236f44098e95d7d55c806402079ac734",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 25_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 25_Front.webp",
+      "sha256": "645e95d4b5f00e54fbdd8d27b2c8a9e0a1ff2b0c5604f6a19103911044b34ee1",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 26_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 26_Front.webp",
+      "sha256": "c203d1bc69ccc3dc629c08302a567a29c7821d7eb46599f12464c565db1326fe",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 27_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 27_Front.webp",
+      "sha256": "a4a0cbdc9ca7b10a5ddd6cdc7b2b6b0841f97e3ba987deae6c8d1f2d94f3686a",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 28_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 28_Front.webp",
+      "sha256": "5f0a96b3499f5b5b7f4fbcf2adc592d1e5a7dc8a6fab0d540394a391bf8c459c",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 29_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 29_Front.webp",
+      "sha256": "36f6f14868e0e15c75a0b18f9deeec60bc2bac8e589d8abec15e7d0a8033b5bb",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 2_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 2_Front.webp",
+      "sha256": "5c40adbe6c5e5bdc94a9d535745798e7bb6ab0bae69be4646ca14e8ab4716149",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 30_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 30_Front.webp",
+      "sha256": "340d62ab336c90712e8c12eec0d3059a9243410313e0bf7aea7cd8d9938516e8",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 31_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 31_Front.webp",
+      "sha256": "e32e580891119c20eded56f5a1854f8dcbbeef25729fcf651898a7fd13b0e5fb",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 32_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 32_Front.webp",
+      "sha256": "be844148ecb829e65c0a4fd47b83200d9b6b55bf9cae857bdbf3632d32173c50",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 33_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 33_Front.webp",
+      "sha256": "c2af49dee55d57fa5f39f6da67139cb2023c7a59df71a0fbded281309a50f66a",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 34_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 34_Front.webp",
+      "sha256": "526e60f637aeb0c82064ae6e250dc76717a7d9d4e76e17e20cce7e1e91822b62",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 35_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 35_Front.webp",
+      "sha256": "38093c8156262c891659cfedba1baec802b34e2b3a2a00f67ca8cebd652c0e71",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 36_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 36_Front.webp",
+      "sha256": "4001400700e42cfcd5cf4803beea84bd63839a18f0300b097262993cad649f85",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 37_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 37_Front.webp",
+      "sha256": "e9b0b77b39045ab369e66b7af6c9c2cc9e315afb668489b0b74eb7056d042935",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 38_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 38_Front.webp",
+      "sha256": "b51375ad77d5a8aaf7e85795e0db31cf3f98ba9d10370abafb633eddf4a82087",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 39_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 39_Front.webp",
+      "sha256": "bd359024ba5c23273aa53c4972561f8394fa15841aeed113c0d3f2a182da41e0",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 3_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 3_Front.webp",
+      "sha256": "44db3bdbd203dcd081b054e88a2721f09ca7b9e56a96dda5fac6c9858399e90c",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 40_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 40_Front.webp",
+      "sha256": "20aeb78d773e54a57a1d4afa42e7a39ca0495b8c8113d6d8cce5e9daf3ffc8d8",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 41_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 41_Front.webp",
+      "sha256": "9519ced648d88040833336f94daf639b7382006d85ea719ada07605b363265e8",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 42_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 42_Front.webp",
+      "sha256": "2983ef9bcfaaa931d09b35859d3233dfb9fa4fbf167d795ff8f63b1a82e1629a",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 43_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 43_Front.webp",
+      "sha256": "31d676988e53da2ca6e87361c5d0018d192e2c3d1353b0b392406be72f5028fc",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 44_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 44_Front.webp",
+      "sha256": "0277eafa276d2d913e68016731673333c3f4ae5f9fd5a46924617298a27dda27",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 45_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 45_Front.webp",
+      "sha256": "0a45aa750ae130d7a07ceabc0271a1170e2e2812c3816071f800e5e64a1f6abd",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 46_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 46_Front.webp",
+      "sha256": "8547708908b0dd857a05c8a6c8a77de44299b4be5cde0c5a71a5ccb174a246e7",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 47_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 47_Front.webp",
+      "sha256": "9389ea7e48ce0c2f49faa48aa94780090033fb6ccb96bf14d55c2144a71b141b",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 48_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 48_Front.webp",
+      "sha256": "ec288cba0449cb69ec0b16c5d33bbc2b89d76acb24b6cc309b31649fa602bad0",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 49_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 49_Front.webp",
+      "sha256": "1d654cfad3567c17680b43786f7f7185280279545a81cb41b4454ab331e11754",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 4_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 4_Front.webp",
+      "sha256": "c0b138392c731857f3c91e9f8a77edf5e54ade2cf0add2c28c222512d1fb6424",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 50_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 50_Front.webp",
+      "sha256": "a2f9af92612daee35e5b7bcb744ad1fa6933bd339e9693ab70d0eaf29a460572",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 51_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 51_Front.webp",
+      "sha256": "a554a9e4ff1c702b86b0cffd539eef0981e8741f5b228dcc4e6c7b5262b06e4e",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 52_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 52_Front.webp",
+      "sha256": "d43f30e46f4074a89540968beda035f905f1d1b5953260192b438f080b9d40a1",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 53_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 53_Front.webp",
+      "sha256": "4015a64b0095ff7653a441d8c1eba49ca2996b2c92fdc564f215650950481eda",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 54_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 54_Front.webp",
+      "sha256": "3e330c23fb1cd07f15e510afd6b30265ae09d42c7c67cd8ab7015d860beb6fc7",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 55_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 55_Front.webp",
+      "sha256": "bcc932676b36757c69d11f77403cdbd31c7557df136e1b4fabef92834480df45",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 56_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 56_Front.webp",
+      "sha256": "71e6f4609a8dc0149de12deb8bc009387c9b676cb5e8267f8fb7d7056ee3078f",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 57_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 57_Front.webp",
+      "sha256": "79b682970e8323cbbf64c116c0a28346bbbc3b9e56d0c3667a367f2433db8ed8",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 58_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 58_Front.webp",
+      "sha256": "a25cbeb679df8a84d1d09ccabc3f13901769c46735b563e8ed1e71e093194679",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 59_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 59_Front.webp",
+      "sha256": "cc1923a53ca5adfd6870978e8e2dfaee7e97878908d305e618424b3e07c2ee5a",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 5_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 5_Front.webp",
+      "sha256": "fec6cf23c3bba4555548b604ed1d7adff6a89c8cfad8be1833326dd2d7d11021",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 60_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 60_Front.webp",
+      "sha256": "017663dfb111d6a45aa3544943ae91134c1ec701ca09bd86124278e71fac8525",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 61_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 61_Front.webp",
+      "sha256": "9ad0ca27a8504a2ddcf12f878c973a0ba442b74c58d8837dd8e4cfdbc9343720",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 62_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 62_Front.webp",
+      "sha256": "211b5ad1da59ccc9eea383b6c8df9ce4010f8773d6d68794f83579ee887adbda",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 63_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 63_Front.webp",
+      "sha256": "cafa26f2c8817c27e4a3cb2446367de5be92c7213dcea752bf7fa0ba60889751",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 64_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 64_Front.webp",
+      "sha256": "aba330629476971a5fe6cc70efa9ccc4051ac6f18494bcb6ad99de4cad51db56",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 65_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 65_Front.webp",
+      "sha256": "e58abbd1f9e0388b368333d8b938c4dc02484b0b3035bf1c0eb47f6640a4b89a",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 66_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 66_Front.webp",
+      "sha256": "7b7678ef91a3400185ceced3f09a6e992d5043e92a2d205fcba2a70fb74bc1a0",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 67_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 67_Front.webp",
+      "sha256": "f88f768e4673339df34b1dff72f4de836ca1c33871c65293358d3d7754f5e9b0",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 68_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 68_Front.webp",
+      "sha256": "dd4702662e57c0468f2103c6c93b332acdd6d10cd74b365e69a57e1306d37153",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 69_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 69_Front.webp",
+      "sha256": "66464efc3ab830828dc12b227156172a0c7c7b129e4c9e62b2daba5a4e3a9108",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 6_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 6_Front.webp",
+      "sha256": "cddd711531f7f0d22aa13fdb06d2a4995b45829761eb9dc8b307286bd16f0fa0",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 70_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 70_Front.webp",
+      "sha256": "f0c2ddda2a36b8ed80916c32147163155419a79fb72028b5f77c9786cd38166a",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 71_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 71_Front.webp",
+      "sha256": "34e57f92b50bc30b374e040d3d61f000cd20f1a2b4c4d8db23f8d4975e293864",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 72_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 72_Front.webp",
+      "sha256": "9bda4be6bfb050796df421a07fe3e3f8f52676ce569f06343a85839fba3350ae",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 73_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 73_Front.webp",
+      "sha256": "5fb9910674d6abf251222002aec3519898c41983594433b2db9c5377c0f48238",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 74_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 74_Front.webp",
+      "sha256": "28029e7b16423268381dc0a669528fb2e13cc9c2fdb673b77e71a1b36be1c35a",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 75_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 75_Front.webp",
+      "sha256": "b1db133621bd68287507073a28affcfd037eb43665d0d0271c433621bd592e65",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 76_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 76_Front.webp",
+      "sha256": "c3e34549ab785f47371839153d7c8313176c84819d90a6bc86ec7c6d4f665668",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 77_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 77_Front.webp",
+      "sha256": "78df2be82e8eb164dac92f24ca165877e019afce6fe63daba7228d10f684dedf",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 78_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 78_Front.webp",
+      "sha256": "6d014911d9e28b16ef0faa7b48f42f9a6b789f2123db3204a02ca47f9c6d5311",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 79_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 79_Front.webp",
+      "sha256": "ce6faf316649a2a5319745653b574f58eab682f2f1fc14ebf68b8ed7f2c69b68",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 7_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 7_Front.webp",
+      "sha256": "0092ef138cb9440f09722edd5d88da9d9763db3c40c6b81097b6776d0ca50cdb",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 80_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 80_Front.webp",
+      "sha256": "f5e19ecb28365658867e0436d7a08122fa00c3cd255d99b801069bade629d519",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 81_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 81_Front.webp",
+      "sha256": "8033532d32fd9db0fb267289ea1f21555e08040b7081029c03c98cf49ec6a941",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 82_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 82_Front.webp",
+      "sha256": "c77b89e9582a9e6c7936c33d8be56b2013a3405e09a6d9e38bd11b0c62ae2f15",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 83_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 83_Front.webp",
+      "sha256": "3d2b65b8d1ec960d5da54cb382273da9af9748bb7727f3fd3a07f045a04481b0",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 84_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 84_Front.webp",
+      "sha256": "bfd8ca3d10069980cbc130a759bd71f46cc86ad5a4e0a71276f755725cc17ee6",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 85_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 85_Front.webp",
+      "sha256": "14425f12053e342cf01c0094eb66b8e9e3b72c18d8902ee035b2411277a0e17e",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 86_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 86_Front.webp",
+      "sha256": "854ad2a2966642ca1d77835ab0db652c7e6fb041f4ce2a9c768b80ae6c4e7bd3",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 87_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 87_Front.webp",
+      "sha256": "3335d014143c79d9ee8091cd36db8428bcccabe602ab0d32c9d02533294dbf89",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 88_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 88_Front.webp",
+      "sha256": "d8b1ec3a9e87092fb388f9a25c88d03265d811b29c8a0d7e39a2726de7342c25",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 89_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 89_Front.webp",
+      "sha256": "ff144a5d8b52814eea61e8c56257b27de0df4377f316064573b0167d94d314f6",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 8_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 8_Front.webp",
+      "sha256": "5bf2d012abc1628291e1d52161882ef7e07f6165c02c7b3d4b36e2e0af16a70b",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 90_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 90_Front.webp",
+      "sha256": "9882aa7e97c85d64cc7e9ea66df82c2cd0d26dd5815514bab277f1f4fe295119",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 91_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 91_Front.webp",
+      "sha256": "216f7832f758c994870d1c57afa92411d4c340995a793429e543f05632bc0a1a",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 92_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 92_Front.webp",
+      "sha256": "cd29df59566e54e27217ac36ebe215a27b7cd79e62ba57d524dd498128a2028b",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 93_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 93_Front.webp",
+      "sha256": "9afe6728d40178907ec4a91a472445a5cfffb0ff1088ae1d420abf3d6538614e",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 94_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 94_Front.webp",
+      "sha256": "cc4656be63be31e9200f0e451cfdfce1bc9abc24f3258c2d385b4616ab6124e3",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 95_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 95_Front.webp",
+      "sha256": "3098f712586fbaae29fcaf1163df09097ca30e8405ec4ee3c88eb2d8c56418b7",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 96_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 96_Front.webp",
+      "sha256": "16c49f68acd614d6fb1f890c1ae63d483602bb965e3baaf4e5c88497c77376bb",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 97_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 97_Front.webp",
+      "sha256": "6a0c2c204ba05823ea9b46bf50f0a5151ff3c5b871f4bf52a4b3dc77c6498698",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 98_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 98_Front.webp",
+      "sha256": "cb6f7f511483796672147b605a92fc62d1cdccc68cedfcc1314036a3fe19a85c",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 99_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 99_Front.webp",
+      "sha256": "933f6da7cc6c5d0b262dd2833017324334aed5c3801735a45f1977d97403f231",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card 9_Front",
+      "path": "Poker Cards/Animal Cards/Animal Card 9_Front.webp",
+      "sha256": "95e72d45aa6156b3878ac977a2d51e7d65fff031df4e424b36a8d79f98152e99",
+      "width": 745,
+      "height": 1040
+    },
+    {
+      "id": "Poker Cards/Animal Cards/Animal Card_Back",
+      "path": "Poker Cards/Animal Cards/Animal Card_Back.webp",
+      "sha256": "d20d09985e4fcf72e045657b30ea51f43cee3ac5c4fea6c9dace5ce89adf43d6",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Trap Cards/Trap Card 1_Front",
+      "path": "Poker Cards/Trap Cards/Trap Card 1_Front.webp",
+      "sha256": "afa343e7bfadabc811b4edee4c81bc31126d3a454d7f94690193e668d0104e0b",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Trap Cards/Trap Card 2_Front",
+      "path": "Poker Cards/Trap Cards/Trap Card 2_Front.webp",
+      "sha256": "9a27f1b2c7741d36c2c5f3e32974993634f10d47e6ee2dc0c13fcf65f5c5b8c2",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Poker Cards/Trap Cards/Trap Card_Back",
+      "path": "Poker Cards/Trap Cards/Trap Card_Back.webp",
+      "sha256": "d20d09985e4fcf72e045657b30ea51f43cee3ac5c4fea6c9dace5ce89adf43d6",
+      "width": 745,
+      "height": 1041
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 10_Back",
+      "path": "Solo Mode Cards/Solo Card 10_Back.webp",
+      "sha256": "357959528a0dd08f80bdc86fb0338260b67216177916a4e71ab6a6eaed957aef",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 10_Front",
+      "path": "Solo Mode Cards/Solo Card 10_Front.webp",
+      "sha256": "0432138ecbc0863d8988c94c1ca1908ff9436b2e8204ad3bf2178f999538630f",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 11_Back",
+      "path": "Solo Mode Cards/Solo Card 11_Back.webp",
+      "sha256": "e702d88dbaf38c377d8186b27e62ebc7f4fb74266122909382ac29612af728f1",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 11_Front",
+      "path": "Solo Mode Cards/Solo Card 11_Front.webp",
+      "sha256": "14c4b03c616430a2fa2e8b23bf2a363120dab62633fe2a69ef87d72f87b0a98f",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 12_Back",
+      "path": "Solo Mode Cards/Solo Card 12_Back.webp",
+      "sha256": "55ff2f6431afb0dc42852203fb05f7cd4968b73d6366e34013d6214cc8fcccaf",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 12_Front",
+      "path": "Solo Mode Cards/Solo Card 12_Front.webp",
+      "sha256": "25857019860106681f76a4e7852323dde5c302fb381db2df20509125bc58679b",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 13_Back",
+      "path": "Solo Mode Cards/Solo Card 13_Back.webp",
+      "sha256": "049eb78386045f8923d3b0d34bb8e927c2830add923823714d8b148ad815d797",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 13_Front",
+      "path": "Solo Mode Cards/Solo Card 13_Front.webp",
+      "sha256": "00425e51cef347a937f7f3876bb7a045e926220970c6df5de6020c2b089c57c9",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 14_Back",
+      "path": "Solo Mode Cards/Solo Card 14_Back.webp",
+      "sha256": "4bea481c2d41c4b480a10c1caa999d732f7bb1c7d83f10fd2e38d73c3160f5d2",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 14_Front",
+      "path": "Solo Mode Cards/Solo Card 14_Front.webp",
+      "sha256": "6612cfca18f03dc4dcbae74b07086fee44fe259886eea78d4e87244b57357e18",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 15_Back",
+      "path": "Solo Mode Cards/Solo Card 15_Back.webp",
+      "sha256": "132fa1d7421281a382557a14ff3e726cc319e5050e05d78d4be087048f5ed0e2",
+      "width": 604,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 15_Front",
+      "path": "Solo Mode Cards/Solo Card 15_Front.webp",
+      "sha256": "3acb28d1df5242709f5fd268ffc925d68c8278630baf331374b8a6c75415ff51",
+      "width": 604,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 16_Back",
+      "path": "Solo Mode Cards/Solo Card 16_Back.webp",
+      "sha256": "e81d41375479bce6f10ac6da240a4c79aedb08f222eed83ed780b9d73d08d358",
+      "width": 603,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 16_Front",
+      "path": "Solo Mode Cards/Solo Card 16_Front.webp",
+      "sha256": "60c7463042366f0ba9ed21e2cdf3a980b89656a37255797c4fe1b8dfb720c20b",
+      "width": 603,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 17_Back",
+      "path": "Solo Mode Cards/Solo Card 17_Back.webp",
+      "sha256": "de9686b48531aaafac6ca1bddf8c0e0e911f1650a3cfcde538a077451b1fac90",
+      "width": 603,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 17_Front",
+      "path": "Solo Mode Cards/Solo Card 17_Front.webp",
+      "sha256": "4a4a780081c4ed3fce9b3968582d8f164d0084fa5d90a0cd8f71de390efc3369",
+      "width": 603,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 18_Back",
+      "path": "Solo Mode Cards/Solo Card 18_Back.webp",
+      "sha256": "35926917e91c9ec806d9bd27342d12529835e52a38cf75184669f1fbc151d9df",
+      "width": 604,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 18_Front",
+      "path": "Solo Mode Cards/Solo Card 18_Front.webp",
+      "sha256": "60bf9be28eb1265ae9285371a966edf2eb78a582278ad3b057104040ad310cd1",
+      "width": 604,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 19_Back",
+      "path": "Solo Mode Cards/Solo Card 19_Back.webp",
+      "sha256": "61861885193273625bb6b5fa7fcb744fdce977407d44ffd65ce2a04c2ce9a302",
+      "width": 603,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 19_Front",
+      "path": "Solo Mode Cards/Solo Card 19_Front.webp",
+      "sha256": "c9966c02bb1192e95092be155d2b267fbc0058ee968220bee8d291932c83cdd8",
+      "width": 603,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 1_Back",
+      "path": "Solo Mode Cards/Solo Card 1_Back.webp",
+      "sha256": "669a53747f2fc4e4b1431eb34a5c9d70c06c56e1832fb0422e01f4b6f201b525",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 1_Front",
+      "path": "Solo Mode Cards/Solo Card 1_Front.webp",
+      "sha256": "75c5c31e8804904f172cc73f1227155e56ebf11b7203f2a0e4abfeaf9dc85595",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 20_Back",
+      "path": "Solo Mode Cards/Solo Card 20_Back.webp",
+      "sha256": "df7de904d21d2481ded3e1a1c3d9d8f341befb133d26799c74c9d78607003ee7",
+      "width": 603,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 20_Front",
+      "path": "Solo Mode Cards/Solo Card 20_Front.webp",
+      "sha256": "d79d0055c056fa4a492d752c3a5528c245d5c34530f54e759f71aa9f3cf50d36",
+      "width": 603,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 21_Back",
+      "path": "Solo Mode Cards/Solo Card 21_Back.webp",
+      "sha256": "ef1b03191ede2391f55af4a87d4f170696f92e0126c614bd5fa96418243c28ba",
+      "width": 604,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 21_Front",
+      "path": "Solo Mode Cards/Solo Card 21_Front.webp",
+      "sha256": "1d0edc1214fed0fa37a33feccbd3d2ec3c3dd4d0aaf1d70daafa036d5007d9e6",
+      "width": 604,
+      "height": 604
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 2_Back",
+      "path": "Solo Mode Cards/Solo Card 2_Back.webp",
+      "sha256": "99374e1f9438639a0d54b40389d00427dd4153ecbf9d8014f3161a3df6f9bd08",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 2_Front",
+      "path": "Solo Mode Cards/Solo Card 2_Front.webp",
+      "sha256": "d2eb95428c4424f939357c97f9e2a6483b3eb39e3fed15c3f27da3e49be81580",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 3_Back",
+      "path": "Solo Mode Cards/Solo Card 3_Back.webp",
+      "sha256": "914f7b25817b3676d9b4f82d141948f4ca102760dba57f7814b9632aeb47e57b",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 3_Front",
+      "path": "Solo Mode Cards/Solo Card 3_Front.webp",
+      "sha256": "78e72887b71182615d7bed46ad30d33b38d4057f2277134f2137bf210e68ecbd",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 4_Back",
+      "path": "Solo Mode Cards/Solo Card 4_Back.webp",
+      "sha256": "822eefb0ec239031c027dcb2f58a45cf0b0660fc54acd407ff0710caf56e5d78",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 4_Front",
+      "path": "Solo Mode Cards/Solo Card 4_Front.webp",
+      "sha256": "cd2ddac0ece9b82bcd9a74c24b93015b0e3d6b114056bc7ac40bfdcabd03badb",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 5_Back",
+      "path": "Solo Mode Cards/Solo Card 5_Back.webp",
+      "sha256": "450c633478a8a1d721f262330aa63001afeaeb813e37da87cf3e6c15a1e4befe",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 5_Front",
+      "path": "Solo Mode Cards/Solo Card 5_Front.webp",
+      "sha256": "32768808a4bed70120de0c6537634b986ab19d5c3d1fa4b5be34434644212112",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 6_Back",
+      "path": "Solo Mode Cards/Solo Card 6_Back.webp",
+      "sha256": "2bd0a7ae1f7c74b1567ce4f8596dd7765b376ca4294d09a32594ea6c36b4b275",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 6_Front",
+      "path": "Solo Mode Cards/Solo Card 6_Front.webp",
+      "sha256": "7d3a563a405c66d39df66f770b49fe5cf9b1bdeee22008e76a77bc2b848d7e06",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 7_Back",
+      "path": "Solo Mode Cards/Solo Card 7_Back.webp",
+      "sha256": "66fec4e074d74442c71ee92873f719f7d956d5beac938fbdc2a382825379344b",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 7_Front",
+      "path": "Solo Mode Cards/Solo Card 7_Front.webp",
+      "sha256": "d6a201a13fdcfea4e6daa3f0716e6268ede4327b719f0625e5337b21ff196f23",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 8_Back",
+      "path": "Solo Mode Cards/Solo Card 8_Back.webp",
+      "sha256": "3c96d7aad068fd9d3e71a7df0dfc6f5caaf22d7dc264e600f02d28c0bde86ef1",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 8_Front",
+      "path": "Solo Mode Cards/Solo Card 8_Front.webp",
+      "sha256": "2085260c03f0d0f6345c0bf04b4152fde692eaa391a4fc41d7722791f90de470",
+      "width": 604,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 9_Back",
+      "path": "Solo Mode Cards/Solo Card 9_Back.webp",
+      "sha256": "1e2cea3e2b9c44bb3e28a9ded791d04d524ba5c4de2bcd0fcbad15e08a8496df",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Solo Mode Cards/Solo Card 9_Front",
+      "path": "Solo Mode Cards/Solo Card 9_Front.webp",
+      "sha256": "15c6ec5635c0e086c6b9509f3b1f044c1f8672fbce28e2af2fce0dd4477882f0",
+      "width": 603,
+      "height": 603
+    },
+    {
+      "id": "Tarot Cards/Player Aid Card/Player Aid Card_Back",
+      "path": "Tarot Cards/Player Aid Card/Player Aid Card_Back.webp",
+      "sha256": "8231b834d5278b53c18d677a59a990ceffcffdd0d4a1f6d1a6ac029cab8980fc",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Player Aid Card/Player Aid Card_Front",
+      "path": "Tarot Cards/Player Aid Card/Player Aid Card_Front.webp",
+      "sha256": "5f8d9fb69e4c5f858576e8ca2214cd2ada612453c31c3f168d3a86ebc4f4538c",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Rain Dance Tile/Rain Dance Tile_Back",
+      "path": "Tarot Cards/Rain Dance Tile/Rain Dance Tile_Back.webp",
+      "sha256": "75ddcf6fd2030472b98f87e72a24da114e552281b1314760dbf0e7f5bdbc8836",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Rain Dance Tile/Rain Dance Tile_Front",
+      "path": "Tarot Cards/Rain Dance Tile/Rain Dance Tile_Front.webp",
+      "sha256": "82c73b6fee8a2e5eca454172d5be9990e05eae2f57b7679204d35d0782e5c951",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 1_Back",
+      "path": "Tarot Cards/Region Cards/Region Card 1_Back.webp",
+      "sha256": "07a7a58405b401fd431d4c95e8d0818155a7e7823457c6a55e03c0a8ef608d20",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 1_Front",
+      "path": "Tarot Cards/Region Cards/Region Card 1_Front.webp",
+      "sha256": "163dbf1530fb7382e0f5d3ca01bb08e37f97f523981c02439d39e7cc69e047b1",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 2_Back",
+      "path": "Tarot Cards/Region Cards/Region Card 2_Back.webp",
+      "sha256": "ee928b0b1cd29c3df437d23707a65e0a92b0d045a55ef49cab4699d2d11f490a",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 2_Front",
+      "path": "Tarot Cards/Region Cards/Region Card 2_Front.webp",
+      "sha256": "492c31e89dc10f4998899a634b15683801929d7e081de4520094d926109278d2",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 3_Back",
+      "path": "Tarot Cards/Region Cards/Region Card 3_Back.webp",
+      "sha256": "920ef911a70a1e46375485665f0b398ed4c4bdd87e0a903ff0cf4b28a272ffed",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 3_Front",
+      "path": "Tarot Cards/Region Cards/Region Card 3_Front.webp",
+      "sha256": "df1d6fb6312a5a1a14e836071beda0d2b084ebd332e428d262191ba6353dce7a",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 4_Back",
+      "path": "Tarot Cards/Region Cards/Region Card 4_Back.webp",
+      "sha256": "2ab3bf035b33d13e56de712f0c25ed92caac44244c8f093bb7d92cf15d25cfdf",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 4_Front",
+      "path": "Tarot Cards/Region Cards/Region Card 4_Front.webp",
+      "sha256": "c65178d7bce48302692bb7e821b60f41dac045a3241a157e21c9e0eda1d893a2",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 5_Back",
+      "path": "Tarot Cards/Region Cards/Region Card 5_Back.webp",
+      "sha256": "e428bd117b146f0714cb9b5feb7ae3940aaa665dce93c80b3dfcffd7392f5d51",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 5_Front",
+      "path": "Tarot Cards/Region Cards/Region Card 5_Front.webp",
+      "sha256": "665289b507b1978f9572087d354582029b84f8b59a492ee83fd0b15f0acfc83f",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 6_Back",
+      "path": "Tarot Cards/Region Cards/Region Card 6_Back.webp",
+      "sha256": "9e6699bbf60fb964a69f5ac43146bf87948d9ba6f68dee3f7ad248b94fb41ef1",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tarot Cards/Region Cards/Region Card 6_Front",
+      "path": "Tarot Cards/Region Cards/Region Card 6_Front.webp",
+      "sha256": "9bed8ad12cddac81caf1052c27dcdcf39210a2359635fbb83444deaa5bb73bbb",
+      "width": 827,
+      "height": 1418
+    },
+    {
+      "id": "Tokens/Active Player/Token Active Player",
+      "path": "Tokens/Active Player/Token Active Player.webp",
+      "sha256": "5d7b5c72c2cac367e1d72389070f8283f8b193fe059b9e070b498d9cad1d935f",
+      "width": 324,
+      "height": 423
+    },
+    {
+      "id": "Tokens/Food/Token Food 1",
+      "path": "Tokens/Food/Token Food 1.webp",
+      "sha256": "af0e3d54b91559366480807a74dd93232f2e2fd53ac0ce5ae4dd44e2a8129e80",
+      "width": 124,
+      "height": 169
+    },
+    {
+      "id": "Tokens/Food/Token Food 2",
+      "path": "Tokens/Food/Token Food 2.webp",
+      "sha256": "bf4b5e044d2e922ba3f57000d99dba9066df40fb9bf517a03cb638e5956c29cd",
+      "width": 136,
+      "height": 169
+    },
+    {
+      "id": "Tokens/Food/Token Food 3",
+      "path": "Tokens/Food/Token Food 3.webp",
+      "sha256": "21b500054ad8c87c0088a9fff780dc190a156c58dbb085d9ae33572efc3c30f8",
+      "width": 146,
+      "height": 169
+    },
+    {
+      "id": "Tokens/Food/Token Food 4",
+      "path": "Tokens/Food/Token Food 4.webp",
+      "sha256": "7c422601d38bd4178d115e58c8b2d77c38032df3e942a102fd09891eae2d4d4d",
+      "width": 81,
+      "height": 169
+    },
+    {
+      "id": "Tokens/Raindrop/Token Raindrop 1",
+      "path": "Tokens/Raindrop/Token Raindrop 1.webp",
+      "sha256": "dea24dbc3f335a3f7614e82a52abcd7d9e18e05301970347a8d3b6d737523eb3",
+      "width": 129,
+      "height": 170
+    },
+    {
+      "id": "Tokens/Raindrop/Token Raindrop 2",
+      "path": "Tokens/Raindrop/Token Raindrop 2.webp",
+      "sha256": "0f1bad719d7b2a7febd83f6b54945ce05999c1fb922fb03b3f1a081baa385b3e",
+      "width": 128,
+      "height": 170
+    },
+    {
+      "id": "Tokens/Raindrop/Token Raindrop 3",
+      "path": "Tokens/Raindrop/Token Raindrop 3.webp",
+      "sha256": "74c6bd5a828c0102505d018b5ba5a5aa54ff6556c3a41784d7e14047f2d8b2a3",
+      "width": 129,
+      "height": 170
+    },
+    {
+      "id": "Tokens/Raindrop/Token Raindrop 4",
+      "path": "Tokens/Raindrop/Token Raindrop 4.webp",
+      "sha256": "0cb26260984e33643fa252b0871aee7872abb6412a646b72e24fc5b7339390d7",
+      "width": 128,
+      "height": 170
+    },
+    {
+      "id": "Tokens/Raindrop/Token Raindrop 5",
+      "path": "Tokens/Raindrop/Token Raindrop 5.webp",
+      "sha256": "ff7782696bbee1aeb9326d52c24416df6037747ccf27d0048c4591602f59d790",
+      "width": 128,
+      "height": 170
+    }
+  ]
+}

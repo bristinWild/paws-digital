@@ -1,0 +1,7 @@
+Fredoka (variable font, width and weight axes), version 2.001
+Copyright 2016 The Fredoka Project Authors (https://github.com/hafontia/Fredoka-One)
+
+This Font Software is licensed under the SIL Open Font License, Version 1.1.
+The full license text is in OFL.txt beside this file; a FAQ is at https://openfontlicense.org
+The copyright notice and license reference are also embedded in the font file.
+The file is redistributed unmodified.
