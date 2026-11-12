@@ -1,0 +1,18 @@
+services:
+  - type: web
+    name: paws
+    runtime: node
+    region: singapore
+    plan: starter
+    buildCommand: echo "no build step"
+    startCommand: node server.mjs
+    healthCheckPath: /health
+    envVars:
+      - key: NODE_VERSION
+        value: "22"
+      - key: PAWS_DATA_DIR
+        value: /var/data/paws-rooms
+    disk:
+      name: paws-rooms
+      mountPath: /var/data
+      sizeGB: 1
